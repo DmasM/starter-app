@@ -1,0 +1,24 @@
+{
+  "name": "starter_generator",
+  "description": "Generating files for starting an application",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "Dimas Maulana"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "~1.4.8",
+    "font-awesome": "fontawesome#~4.5.0",
+    "animate.css": "~3.5.1"
+  }
+}
